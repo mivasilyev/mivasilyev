@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![My badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+[My badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
