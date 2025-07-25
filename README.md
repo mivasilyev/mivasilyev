@@ -1,4 +1,3 @@
-### Инструменты и технологии
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
@@ -12,8 +11,5 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
-## 🗨️ Напиши мне
-
-- Telegram: [@mivasilyev](https://t.me/mivasilyev)
-
 ---
+- Telegram: [@mivasilyev](https://t.me/mivasilyev)
