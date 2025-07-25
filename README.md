@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=flat)
 ![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
@@ -12,4 +12,6 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
 ---
+![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-social&logo=telegram&logoColor=white)
+
 - Telegram: [@mivasilyev](https://t.me/mivasilyev)
