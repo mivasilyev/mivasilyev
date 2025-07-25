@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=grey)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-0A0A0A?style=plastic)
 ![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
