@@ -11,6 +11,7 @@
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?style=plastic&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)
+![T‑Bank Invest API](https://img.shields.io/badge/-T‑Bank Invest API-2CA5E0?style=plastic)
 
 ### Contact me:
 - Telegram: [@mivasilyev](https://t.me/mivasilyev)
