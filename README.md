@@ -6,9 +6,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker--compose-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=plastic&logo=nginx&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
-
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white)
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?style=plastic&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
